@@ -73,9 +73,11 @@ Spring Guides - https://spring.io/guides/gs/messaging-rabbitmq/
 
 Baeldung.com - https://www.baeldung.com/spring-amqp
 
-## For Instructions on how to run the app, please review the make file and commands.
+## Instructions on how to run the app, 
 
-## Basic Steps 
+### Please review the make file for commands:
+
+### Basic Steps: 
 
 -> Build (Gradle), Run (Gradle / BootRun) 
 
